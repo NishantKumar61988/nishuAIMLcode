@@ -1,2 +1,2 @@
-# nishucode
-Generic code to contribute
+# nishuAIMLcode
+AIML learnings projects and python code
